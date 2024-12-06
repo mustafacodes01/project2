@@ -21,4 +21,4 @@ YumYum is a ReactJS project that serves as a food ordering app. It uses a custom
 
 ## Note
 
-**Server Respository** : 
+**Server Respository** : https://github.com/mustafacodes01/server.git
