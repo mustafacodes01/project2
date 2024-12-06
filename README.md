@@ -10,18 +10,6 @@ YumYum is a ReactJS project that serves as a food ordering app. It uses a custom
 
 **Live** : https://yumyum-good-food-made-easy.netlify.app/
 
-## Features 🧑‍💻
-JWT Authentication
-Stripe Payment Gateway
-Order History
-Custom Hooks
-Shimmer UI made from scratch
-Search Feature
-Cart Feature using useContext + useReducer
-Lazy Loading | Code Splitting
-Responsive Design
-
-
 ## Tech Stack ⚙️
 
 - React JS
